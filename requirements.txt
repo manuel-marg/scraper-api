@@ -7,5 +7,5 @@ selenium==3.141.0
 starlette==0.11.1
 urllib3==1.25.2
 uvicorn==0.7.0
-uvloop==0.17.0
+uvloop==0.12.2
 websockets==7.0
